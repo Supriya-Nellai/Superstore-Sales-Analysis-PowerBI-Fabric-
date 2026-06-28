@@ -45,6 +45,6 @@ An advanced end-to-end analytics project built on the Kaggle Superstore dataset,
 - South region underperforms with only 17.05% of total sales
 
 ## Dashboard Previews
-- Power BI Desktop: `PowerBI/Power_BI_Dashboard.png`
-- Microsoft Fabric: `Fabric/Superstore Analytics Report.pdf`
-- AI Insights: `Fabric/Superstore Analytics Report.pdf`
+- Power BI Desktop: `PowerBI/PowerBI_Dashboard.png`
+- Microsoft Fabric: `Fabric/Superstore_Analytics_Report.pdf`
+- AI Insights: `Fabric/Superstore_Analytics_Report.pdf`
