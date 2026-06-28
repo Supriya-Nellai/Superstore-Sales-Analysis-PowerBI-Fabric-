@@ -43,8 +43,8 @@ An advanced end-to-end analytics project built on the Kaggle Superstore dataset,
 - November is the highest-performing month
 - Discount rate is a key influencer of profit (identified by AI Key Influencers visual)
 - South region underperforms with only 17.05% of total sales
-
+![Looker Studio Dashboard](Dashboard/LookerStudio-Dashboard.pdf)
 ## Dashboard Previews
-- Power BI Desktop: `PowerBI/PowerBI_Dashboard.png`
-- Microsoft Fabric: `Fabric/Superstore_Analytics_Report.pdf`
-- AI Insights: `Fabric/Superstore_Analytics_Report.pdf`
+- Power BI Desktop: ![PowerBI Dashboard](PowerBI/PowerBI_Dashboard.png)
+- Microsoft Fabric: ![Fabric Dashboard (Page 1)](Fabric/Superstore_Analytics_Report.pdf)
+- AI Insights: ![Fabric Dashboard (Page 2)](Fabric/Superstore_Analytics_Report.pdf)
